@@ -1,5 +1,6 @@
 {
   "name": "platzi-now-api",
+  "alias": "platzi-now-api-rzv.now.sh",
   "env": {
     "NODE_ENV": "production",
     "PORT": 3000,
